@@ -1,0 +1,14 @@
+Alt+Enter Crash
+---------------
+Test that Alt+Enter does not cause Compiz/Unity to crash (LP: #960957)
+
+Setup:
+
+Actions:
+#. Press Alt+Enter.
+
+Expected Result:
+  Nothing happens
+ 
+Wrong Result:
+  Unity/Compiz crashes

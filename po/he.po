@@ -1,0 +1,351 @@
+# Hebrew translations for l package.
+# Copyright (C) 2010 THE l'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the l package.
+# Canonical OEM, 2010.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: l 10n\n"
+"Report-Msgid-Bugs-To: ayatana-dev@lists.launchpad.net\n"
+"POT-Creation-Date: 2013-04-17 16:00+0100\n"
+"PO-Revision-Date: 2010-03-02 12:36-0500\n"
+"Last-Translator: Canonical OEM\n"
+"Language-Team: Hebrew\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid " (Hold)"
+msgstr ""
+
+msgid " (Tap)"
+msgstr ""
+
+msgid " + 1 to 9"
+msgstr ""
+
+msgid " + Arrow Keys"
+msgstr ""
+
+msgid " + Shift + 1 to 9"
+msgstr ""
+
+msgid " Drag"
+msgstr ""
+
+msgid " or Right"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Arrow Keys"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Closes the current window."
+msgstr ""
+
+msgid "Ctrl + Alt + Num"
+msgstr ""
+
+msgid "Ctrl + Tab"
+msgstr ""
+
+msgid "Cursor Left or Right"
+msgstr ""
+
+msgid "Dash"
+msgstr ""
+
+msgid "Drop To Add Application"
+msgstr ""
+
+msgid "Eject"
+msgstr ""
+
+msgid "Eject parent drive"
+msgstr ""
+
+msgid "Empty Trash..."
+msgstr ""
+
+msgid "Enter"
+msgstr ""
+
+msgid "Filter results"
+msgstr ""
+
+#, c-format
+msgid ""
+"Goodbye, %s. Are you sure you want to close all programs and log out from "
+"your account?"
+msgstr ""
+
+#, c-format
+msgid ""
+"Goodbye, %s. Are you sure you want to close all programs and shut down the "
+"computer?"
+msgstr ""
+
+#, c-format
+msgid "Goodbye, %s. Would you like to…"
+msgstr ""
+
+msgid "HUD"
+msgstr ""
+
+msgid "HUD & Menu Bar"
+msgstr ""
+
+#, c-format
+msgid ""
+"Hi %s, you have open files that you might want to save before logging out. "
+"Are you sure you want to continue?"
+msgstr ""
+
+#, c-format
+msgid ""
+"Hi %s, you have open files that you might want to save before shutting down. "
+"Are you sure you want to continue?"
+msgstr ""
+
+#, c-format
+msgid ""
+"Hi %s, you have open files you might want to save.\n"
+"Would you like to…"
+msgstr ""
+
+#. We have enough buttons to show the message without a new line.
+#, c-format
+msgid "Hi %s, you have open files you might want to save. Would you like to…"
+msgstr ""
+
+msgid "Hibernate"
+msgstr ""
+
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgid "Last Updated"
+msgstr ""
+
+msgid "Launcher"
+msgstr ""
+
+msgid "Left Mouse"
+msgstr ""
+
+msgid "Lock"
+msgstr ""
+
+#, fuzzy
+msgid "Lock to Launcher"
+msgstr "מהסר מ- Launcher"
+
+msgid "Log Out"
+msgstr ""
+
+msgid "Maximises the current window."
+msgstr ""
+
+msgid "Middle Mouse"
+msgstr ""
+
+msgid "Minimises all windows."
+msgstr ""
+
+msgid "Moves focus between indicators."
+msgstr ""
+
+msgid "Moves focused window to another workspace."
+msgstr ""
+
+msgid "Moves the focus."
+msgstr ""
+
+msgid "Moves the window."
+msgstr ""
+
+msgid "Multi-range"
+msgstr ""
+
+msgid "No Image Available"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Opens Launcher keyboard navigation mode."
+msgstr ""
+
+msgid "Opens a new window in the app."
+msgstr ""
+
+msgid "Opens the Dash App Lens."
+msgstr ""
+
+msgid "Opens the Dash Files Lens."
+msgstr ""
+
+msgid "Opens the Dash Home."
+msgstr ""
+
+msgid "Opens the Dash Music Lens."
+msgstr ""
+
+msgid "Opens the Dash Video Lens."
+msgstr ""
+
+msgid "Opens the HUD."
+msgstr ""
+
+msgid "Opens the Launcher, displays shortcuts."
+msgstr ""
+
+msgid "Opens the Trash."
+msgstr ""
+
+msgid "Opens the currently focused item."
+msgstr ""
+
+msgid "Opens the indicator menu."
+msgstr ""
+
+msgid "Opens the window accessibility menu."
+msgstr ""
+
+msgid "Places the window in corresponding position."
+msgstr ""
+
+msgid "Quicklist"
+msgstr ""
+
+msgid "Quit"
+msgstr "יציאה"
+
+msgid "Rating"
+msgstr ""
+
+msgid "Resizes the window."
+msgstr ""
+
+msgid "Restart"
+msgstr ""
+
+msgid "Restores or minimises the current window."
+msgstr ""
+
+msgid "Reveals the application menu."
+msgstr ""
+
+msgid "Right Mouse"
+msgstr ""
+
+msgid "Safely remove"
+msgstr ""
+
+msgid "Safely remove parent drive"
+msgstr ""
+
+msgid "Same as clicking on a Launcher icon."
+msgstr ""
+
+msgid "Search your computer and online sources"
+msgstr ""
+
+msgid "See fewer results"
+msgstr ""
+
+msgid "Semi-maximise the current window."
+msgstr ""
+
+msgid "Show Desktop"
+msgstr ""
+
+msgid "Shut Down"
+msgstr ""
+
+msgid "Sorry, there is nothing that matches your search."
+msgstr ""
+
+msgid "Spreads all windows in the current workspace."
+msgstr ""
+
+msgid "Suspend"
+msgstr ""
+
+msgid "Switcher"
+msgstr ""
+
+msgid "Switches applications via the Launcher."
+msgstr ""
+
+msgid "Switches between Lenses."
+msgstr ""
+
+msgid "Switches between applications."
+msgstr ""
+
+msgid "Switches between workspaces."
+msgstr ""
+
+msgid "Switches windows of current applications."
+msgstr ""
+
+msgid "Switches workspaces."
+msgstr ""
+
+msgid "Switching"
+msgstr ""
+
+msgid "The drive has been successfully ejected"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Type your command"
+msgstr ""
+
+msgid "Ubuntu Desktop"
+msgstr ""
+
+#, fuzzy
+msgid "Unlock from Launcher"
+msgstr "מהסר מ- Launcher"
+
+msgid "Unmount"
+msgstr ""
+
+#. Application is being installed, or hasn't been installed yet
+msgid "Waiting to install"
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "Workspace Switcher"
+msgstr ""
+
+msgid "Workspaces"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Hide Launcher"
+#~ msgstr "מהסר מ- Launcher"
+
+#, fuzzy
+#~ msgid "Keep in launcher"
+#~ msgstr "שמור ב- Launcher"
+
+#, fuzzy
+#~ msgid "Launchers"
+#~ msgstr "מהסר מ- Launcher"

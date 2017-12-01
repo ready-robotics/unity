@@ -1,0 +1,25 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#cmakedefine PREFIXDIR "@PREFIXDIR@"
+#cmakedefine DATADIR "@DATADIR@"
+#cmakedefine PKGDATADIR "@PKGDATADIR@"
+#cmakedefine LOCALE_DIR "@LOCALE_DIR@"
+#cmakedefine VERSION "@VERSION@"
+#cmakedefine BUILDDIR "@BUILDDIR@"
+#cmakedefine SOURCEDATADIR "@SOURCEDATADIR@"
+#cmakedefine TESTDATADIR "@TESTDIRDIR@"
+#cmakedefine GETTEXT_PACKAGE "@GETTEXT_PACKAGE@"
+#cmakedefine LENSES_DIR "@LENSES_DIR@"
+#cmakedefine GTK_PREFIX "@GTK_PREFIX@"
+#ifndef INDICATORDIR
+#cmakedefine INDICATORDIR "@INDICATORDIR@"
+#endif
+#ifndef INDICATORICONDIR
+#cmakedefine INDICATORICONDIR "@INDICATORICONDIR@"
+#endif
+#ifndef INDICATOR_SERVICE_DIR
+#cmakedefine INDICATOR_SERVICE_DIR "@INDICATOR_SERVICE_DIR@"
+#endif
+
+#endif // CONFIG_H

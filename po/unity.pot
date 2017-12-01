@@ -1,0 +1,396 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Canonical\ Ltd
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: ayatana-dev@lists.launchpad.net\n"
+"POT-Creation-Date: 2014-07-01 11:21-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "All"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Multi-range"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "See fewer results"
+msgstr ""
+
+msgid "Sorry, there is nothing that matches your search."
+msgstr ""
+
+msgid "Last Updated"
+msgstr ""
+
+#. The "%s" is used in the dash preview to display the "<hint>: <value>" infos
+#, c-format
+msgid "%s:"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "This window is not responding"
+msgstr ""
+
+msgid "Do you want to force the application to exit, or wait for it to respond?"
+msgstr ""
+
+msgid "_Wait"
+msgstr ""
+
+msgid "_Force Quit"
+msgstr ""
+
+msgid "Type your command"
+msgstr ""
+
+msgid "Lock to Launcher"
+msgstr ""
+
+msgid "Unlock from Launcher"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Search your computer and online sources"
+msgstr ""
+
+msgid "Show Desktop"
+msgstr ""
+
+msgid "The drive has been successfully ejected"
+msgstr ""
+
+msgid "Workspace Switcher"
+msgstr ""
+
+msgid "HUD"
+msgstr ""
+
+#. Application is being installed, or hasn't been installed yet
+msgid "Waiting to install"
+msgstr ""
+
+msgid "Installing…"
+msgstr ""
+
+msgid "Drop To Add Application"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Empty Trash…"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Eject parent drive"
+msgstr ""
+
+msgid "Eject"
+msgstr ""
+
+msgid "Safely remove parent drive"
+msgstr ""
+
+msgid "Safely remove"
+msgstr ""
+
+msgid "Unmount"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Invalid password, please try again"
+msgstr ""
+
+msgid "Ubuntu Desktop"
+msgstr ""
+
+msgid "Dash"
+msgstr ""
+
+msgid "Launcher"
+msgstr ""
+
+#, c-format
+msgid "%s: running: %zu windows open"
+msgstr ""
+
+#, c-format
+msgid "%s: running"
+msgstr ""
+
+msgid "Quicklist"
+msgstr ""
+
+msgid "Switcher"
+msgstr ""
+
+msgid "Left Mouse"
+msgstr ""
+
+msgid "Middle Mouse"
+msgstr ""
+
+msgid "Right Mouse"
+msgstr ""
+
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgid " (Hold)"
+msgstr ""
+
+msgid "Opens the Launcher, displays shortcuts."
+msgstr ""
+
+msgid "Opens Launcher keyboard navigation mode."
+msgstr ""
+
+msgid "Switches applications via the Launcher."
+msgstr ""
+
+msgid " + 1 to 9"
+msgstr ""
+
+msgid "Same as clicking on a Launcher icon."
+msgstr ""
+
+msgid " + Shift + 1 to 9"
+msgstr ""
+
+msgid "Opens a new window in the app."
+msgstr ""
+
+msgid "Opens the Trash."
+msgstr ""
+
+msgid " (Tap)"
+msgstr ""
+
+msgid "Opens the Dash Home."
+msgstr ""
+
+msgid "Opens the Dash App Lens."
+msgstr ""
+
+msgid "Opens the Dash Files Lens."
+msgstr ""
+
+msgid "Opens the Dash Music Lens."
+msgstr ""
+
+msgid "Opens the Dash Photo Lens."
+msgstr ""
+
+msgid "Opens the Dash Video Lens."
+msgstr ""
+
+msgid "Switches between Lenses."
+msgstr ""
+
+msgid "Ctrl + Tab"
+msgstr ""
+
+msgid "Moves the focus."
+msgstr ""
+
+msgid "Arrow Keys"
+msgstr ""
+
+msgid "Opens the currently focused item."
+msgstr ""
+
+msgid "Enter"
+msgstr ""
+
+msgid "HUD & Menu Bar"
+msgstr ""
+
+msgid "Opens the HUD."
+msgstr ""
+
+msgid "Reveals the application menu."
+msgstr ""
+
+msgid "Opens the indicator menu."
+msgstr ""
+
+msgid "Moves focus between indicators."
+msgstr ""
+
+msgid "Cursor Left or Right"
+msgstr ""
+
+msgid "Switching"
+msgstr ""
+
+msgid "Switches between applications."
+msgstr ""
+
+msgid "Switches between applications from all workspaces."
+msgstr ""
+
+msgid "Switches windows of current applications."
+msgstr ""
+
+msgid "Workspaces"
+msgstr ""
+
+msgid "Switches between workspaces."
+msgstr ""
+
+msgid " + Arrow Keys"
+msgstr ""
+
+msgid "Switches workspaces."
+msgstr ""
+
+msgid "Moves focused window to another workspace."
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "Spreads all windows in the current workspace."
+msgstr ""
+
+msgid "Spreads all windows."
+msgstr ""
+
+msgid "Spreads all windows in all the workspaces."
+msgstr ""
+
+msgid "Minimises all windows."
+msgstr ""
+
+msgid "Maximises the current window."
+msgstr ""
+
+msgid "Restores or minimises the current window."
+msgstr ""
+
+msgid " or Right"
+msgstr ""
+
+msgid "Semi-maximise the current window."
+msgstr ""
+
+msgid "Closes the current window."
+msgstr ""
+
+msgid "Opens the window accessibility menu."
+msgstr ""
+
+msgid "Places the window in corresponding position."
+msgstr ""
+
+msgid "Ctrl + Alt + Num (keypad)"
+msgstr ""
+
+msgid " Drag"
+msgstr ""
+
+msgid "Moves the window."
+msgstr ""
+
+msgid "Resizes the window."
+msgstr ""
+
+msgid ""
+"Other users are logged in. Restarting or shutting down will close their open applications and may cause them to lose work.\n"
+"\n"
+msgstr ""
+
+msgid "Shut Down"
+msgstr ""
+
+#, c-format
+msgid "Hi %s, you have open files that you might want to save before shutting down. Are you sure you want to continue?"
+msgstr ""
+
+#, c-format
+msgid "Goodbye, %s. Are you sure you want to close all programs and shut down the computer?"
+msgstr ""
+
+msgid "Log Out"
+msgstr ""
+
+#, c-format
+msgid "Hi %s, you have open files that you might want to save before logging out. Are you sure you want to continue?"
+msgstr ""
+
+#, c-format
+msgid "Goodbye, %s. Are you sure you want to close all programs and log out from your account?"
+msgstr ""
+
+#. We have enough buttons to show the message without a new line.
+#, c-format
+msgid "Hi %s, you have open files you might want to save. Would you like to…"
+msgstr ""
+
+#, c-format
+msgid ""
+"Hi %s, you have open files you might want to save.\n"
+"Would you like to…"
+msgstr ""
+
+#, c-format
+msgid "Goodbye, %s. Would you like to…"
+msgstr ""
+
+msgid "Lock"
+msgstr ""
+
+msgid "Suspend"
+msgstr ""
+
+msgid "Hibernate"
+msgstr ""
+
+msgid "Restart"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "No Image Available"
+msgstr ""
+
+msgid "Filter results"
+msgstr ""
+
+#. avoid wrap lines
+msgid "Caps lock is on"
+msgstr ""
